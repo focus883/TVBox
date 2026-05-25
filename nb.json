@@ -89,6 +89,24 @@
       "changeable": 1
     },
     {
+      "key": "csp_Tpzy",
+      "name": "🕹️┃淘片┃追剧必备",
+      "type": 1,
+      "api": "https://taopianapi.com/cjapi/mc/vod/json.html",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_Fszy",
+      "name": "🛰️┃飞速┃独立切片",
+      "type": 1,
+      "api": "https://www.feisuzyapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "csp_Dm84",
       "name": "🚌┃动漫┃巴士连载",
       "type": 3,
